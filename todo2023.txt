@@ -1,0 +1,4 @@
+1. mkdir - create folder, 
+2. touch name.txt - create file
+3. git add name.txt
+4. git commit -m"first commit"
