@@ -2,3 +2,14 @@
 2. touch name.txt - create file
 3. git add name.txt
 4. git commit -m"first commit"
+5. if update: git status
+git add name.txt
+6. to upload to GitHub
+ git remote add origin https://github.com/anastasia-m99/Git--test.git(folder name)
+ git branch -M main
+ git push -u origin main
+
+7. if update (GitHub)
+ git add name.txt
+ git commit -m"comment"
+ git push -u origin main
